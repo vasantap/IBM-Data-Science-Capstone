@@ -1,2 +1,2 @@
-# IBM-Data-Science-Capstone
-Best locations in Kuala Lumpur, Malaysia to open a new Asian restaurant
+# IBM Data Science Capstone project
+Best locations to open an Asian restaurant in Kuala Lumpur, Malaysia.
